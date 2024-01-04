@@ -1,7 +1,6 @@
-
+import styles from "./editor.module.css";
 import React, { useEffect, useState } from 'react';
 import InputControl from './InputControl';
-import styles from "./Editor.module.css";
 import { X } from "react-feather";
 
 const Editor = (props) => {
