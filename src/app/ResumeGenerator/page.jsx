@@ -1,7 +1,8 @@
 /** @jsxImportSource @emotion/react */
-import React from 'react';
+
 import { jsx, jsxs } from 'react/jsx-runtime';
-import { useRef, useState } from 'react';
+import { useRef } from 'react'; 
+import React, { useState } from 'react';
 import Image from 'next/image';
 import Editor from './editor';
 import ResumeD from "./ResumeD.jsx";
