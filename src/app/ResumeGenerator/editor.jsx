@@ -1,5 +1,7 @@
+/* @jsxImportSource client */
+import React from 'react';
+import { useEffect, useState  } from 'react';
 import styles from "./editor.module.css";
-import React, { useEffect, useState } from 'react';
 import InputControl from './InputControl';
 import { X } from "react-feather";
 
