@@ -1,5 +1,6 @@
 /* @jsxImportSource client */
-import React, { useRef, useState } from "react";
+import React from 'react';
+import { useRef, useState } from 'react';
 import Image from 'next/image';
 import Editor from './editor';
 import ResumeD from "./ResumeD.jsx";
