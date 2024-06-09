@@ -1,36 +1,4 @@
 
-   
-   /* .header::-webkit-scrollbar {
-     height: 7px;
-   }
-   
-   .header::-webkit-scrollbar-thumb {
-     border-radius: 20px;
-     background-color: #c7c7c7;
-   } 
-   
-   .header .section {
-     padding: 10px;
-     border-bottom: 2px solid transparent;
-     font-weight: 500;
-     font-size: 1rem;
-     white-space: nowrap;
-     cursor: pointer;
-   }
-   
-   .header .active {
-     border-bottom: 2px solid #239ce2;
-     color: #239ce2;
-   } 
-   
-   .body {
-     padding: 30px;
-     display: flex;
-     flex-direction: column;
-     gap: 20px;
-     padding-top: 10px;
-   } */
-   
    .detail {
     display: flex;
     flex-direction: column;
